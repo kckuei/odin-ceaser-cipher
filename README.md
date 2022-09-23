@@ -1,5 +1,8 @@
 # Caeser Cipher
-Practice with writing unit tests for the caeser-cipher assignment using the domain specific language (DSL) `RSpec` for `ruby`. Not exactly a TDD-implementation since the cipher was written before the tests. 
+Practice with writing unit tests for the caeser-cipher assignment using the domain specific language (DSL) `RSpec` for `ruby`. 
+
+Not exactly a test driven development (TDD) implementation since the cipher was written before the tests. However, the idea is that *if* you convert your requirements into tests first, the process of writing the actual code and refactoring it is streamlined and you can proceed with greater confidence that your changes won't adversely affect the behavior.
+
 
 ### Caeser Cipher
 ```ruby
